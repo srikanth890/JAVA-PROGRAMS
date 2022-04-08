@@ -1,27 +1,28 @@
 package javaprograms;
 
+import java.util.Scanner;
+
 public class reverse_num {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter a Number:");
+		int num = scan.nextInt();
+		scan.close();
+		reverse_num obj=new reverse_num();
+		obj.rev_number(num);
+	}
 
-		
-		int num=1234;
-		
-		//int rev=0;
-		/*while(num!=0) {
-			rev=rev*10+num%10;
-			num=num/10;
-		}*/
-		
-		//StringBuffer sb=new StringBuffer(String.valueOf(num));
-	//StringBuffer rev=	sb.reverse();
-	
-	StringBuilder sd=new StringBuilder();
-	 sd.append(num);
-	 StringBuilder rev=	sd.reverse();
-		
-		System.out.println("reverse of a number:"+rev);
+	public void rev_number(int n) {
+      System.out.println("Before Reverse a Number:"+n);
+      int rev=0;
+		while(n!=0) {
+			int rem=n%10;
+			rev=rev*10+rem;
+			n=n/10;
+		}
+		System.out.println("afer Reverse of a Nubmer:"+rev);
 	}
 
 }

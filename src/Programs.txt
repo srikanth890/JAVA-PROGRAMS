@@ -1,0 +1,54 @@
+1.swap two nubmers using temparory variable and with out using temporary variable
+2.reverse of a number
+3.reverse of a string
+4.palindrome number
+5.palindrome String
+6.count number of digits in a nubmer
+7.count number of even and odd digits in a number
+8.find sum of digits in a number
+9.find largest of three numbers
+10.fibonacci series
+11.check number is prime or not
+12.Generate random numbers and Strings
+13.factorial of a number
+14.sum of elements in an array
+15.extract even and odd numbers in array
+16.check equality of an array
+17.how to find missing number in array
+18.how to find max and min elements in array
+19.how to find duplicate numbers in array
+20.search element in array-Linear search
+21.search element in array-Binary Search
+22.Sort Elements in Array-Bubble sort
+23.How to remove junk or special characters in String
+24.How to remove white spaces in a string
+25.how to count occuernces of character in string
+26.how to count words in a String
+27.how to reverse each word in a String.
+28.sort Elements in array-Built in Methods.
+29.how to read data from a text file.
+30.how to write data into a text file.
+31.Write a Java program to print the area and perimeter of a circle
+32. Write a Java program to print the area and perimeter of a rectangle.
+33.Write a Java program to add two binary numbers
+34.Write a Java program to multiply two binary numbers.
+35.Write a Java program to convert a decimal number to binary number.
+36.Write a Java program to convert a decimal number to hexadecimal number.
+37.Write a Java program to convert a decimal number to octal number.
+38.Write a Java program to convert a binary number to decimal number.
+39.Write a Java program to convert a binary number to hexadecimal number.
+40.Write a Java program to convert a binary number to octal number.
+41.Write a Java program to convert a octal number to a decimal number.
+42.Write a Java program to convert a octal number to a hexadecimal number.
+43.Write a Java program to convert a octal number to a binary number.
+44.Write a Java program to convert a hexadecimal to a decimal number.
+45.Write a Java program to convert a hexadecimal to a octal number.
+46.Write a Java program to convert a hexadecimal to a binary number.
+47.Write a Java program to compute the area of a hexagon.
+48.Write a Java program to compute the area of a polygon.
+49.Write a Java program to compute the distance between two points on the surface of earth.
+50.Write a Java program to count the letters, spaces, numbers and other characters of an input string.
+51.Write a Java program to create and display unique three-digit number using 1, 2, 3, 4. Also count how many three-digit numbers are there.
+52.
+
+
